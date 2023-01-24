@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # 💫 About Me:
 🔭 I’m currently working on Automation Scripts based on IOT.<br>👯 I’m looking to collaborate on anything which can improve my skills.<br>🌱 I’m currently learning Flask.<br>💬 Ask me about c++, java, Tensorflow, firebase, python, django.<br>⚡ Fun fact One fun fact about programming is that the first computer program was written by Ada Lovelace in 1843, which was intended to calculate Bernoulli numbers on Charles Babbage's Analytical Engine.
 
@@ -28,4 +27,3 @@
 [![](https://visitcount.itsvg.in/api?id=lsgdefault&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
